@@ -1,5 +1,5 @@
  # easy-nmap
-This tool makes using nmap easier in gui based cmd
+This tool makes using nmap easier in gui based command line 
 ## ScreenShot
 ![salam](./screen.png)
 ## installation
