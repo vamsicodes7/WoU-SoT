@@ -5,7 +5,7 @@ This tool makes using nmap easier
 ## installation
 Just run the following commands to install
 ```
-git clone https://github.com/RedSecurity/easy-nmap.git
+git clone https://github.com/vamsicodes7/WoU-SoT.git
 cd easy-nmap
 bash installer.sh
 cd -
@@ -16,5 +16,5 @@ Just run the following command
 easy-nmap
 ```
 You can run the above command anywhere in terminal
-## Contact us
-WebSite: https://redsecurity.xyz<br/>Email: info@redsecurity.xyz
+## Contact us @woxsen university
+Team - vamshi, hemanth, mohitha, vaishnavi
