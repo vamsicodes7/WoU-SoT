@@ -18,15 +18,17 @@ echo `tput setaf 1`"
 ██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ████╗  ██║████╗ ████║██╔══██╗██╔══██╗
 █████╗  ███████║███████╗ ╚████╔╝     ██╔██╗ ██║██╔████╔██║███████║██████╔╝
 ██╔══╝  ██╔══██║╚════██║  ╚██╔╝      ██║╚██╗██║██║╚██╔╝██║██╔══██║██╔═══╝ 
-███████╗██║  ██║███████║   ██║       ██║ ╚████║██║ ╚═╝ ██║██║  ██║██║     
+█|██████╗██║  ██║███████║   ██║       ██║ ╚████║██║ ╚═╝ ██║██║  ██║██║     
 ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝       ╚═╝  ╚═══╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝     
   ________________________________________________________________________
- |                                                                        |
- |             	       WebSite: RedSecurity.xyz                           |
- |		        Creator: RedSecurity Admin			  |
- |		         E-mail: Info@RedSecurity.xyz			  |
- |									  | 
- --------------------------------------------------------------------------
+ |  Team Members -- Vamsi.p , Vaishnavi.g , Hemanth.b, Mohita.b          |                                                                      
+ |  Description - Port scanning is a method to identify open ports,      |
+ |               crucial for security assessments and network management.|
+ |               We are not responsible for any problem                  |
+ |                resulting from the use of such tools.                  |
+ |       CONCEPTUAL PROJECT                                              |
+ |                                                                       |
+ -------------------------------------------------------------------------
 "
 sleep .12
 echo `tput setaf 11` 'Please select an option :) '
@@ -56,12 +58,14 @@ echo `tput setaf 1`"
 ███████╗██║  ██║███████║   ██║       ██║ ╚████║██║ ╚═╝ ██║██║  ██║██║     
 ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝       ╚═╝  ╚═══╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝     
   ________________________________________________________________________
- |                                                                        |
- |                     WebSite: RedSecurity.xyz                           |
- |                      Creator: RedSecurity Admin                        |
- |                       E-mail: Info@RedSecurity.xyz                     |
- |                                                                        | 
- --------------------------------------------------------------------------
+ |  Team Members -- Vamsi.p , Vaishnavi.g , Hemanth.b, Mohita.b          |                                                                      
+ |  Description - Port scanning is a method to identify open ports,      |
+ |               crucial for security assessments and network management.|
+ |               We are not responsible for any problem                  |
+ |                resulting from the use of such tools.                  |
+ |       CONCEPTUAL PROJECT                                              |
+ |                                                                       |
+ -------------------------------------------------------------------------
                                                                                                     "
 
 
@@ -155,12 +159,14 @@ echo `tput setaf 1`"
 ███████╗██║  ██║███████║   ██║       ██║ ╚████║██║ ╚═╝ ██║██║  ██║██║     
 ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝       ╚═╝  ╚═══╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝     
   ________________________________________________________________________
- |                                                                        |
- |                     WebSite: RedSecurity.xyz                           |
- |                      Creator: RedSecurity Admin                        |
- |                       E-mail: Info@RedSecurity.xyz                     |
- |                                                                        | 
- --------------------------------------------------------------------------
+ |  Team Members -- Vamsi.p , Vaishnavi.g , Hemanth.b, Mohita.b          |                                                                      
+ |  Description - Port scanning is a method to identify open ports,      |
+ |               crucial for security assessments and network management.|
+ |               We are not responsible for any problem                  |
+ |                resulting from the use of such tools.                  |
+ |       CONCEPTUAL PROJECT                                              |
+ |                                                                       |
+ -------------------------------------------------------------------------
 "
 echo `tput setaf 11` 'Examples for IP Range => 10.0.0.0/8 -- 172.16.0.0/16 -- 192.168.1.0/24 '
 echo `tput setaf 45`
@@ -185,12 +191,14 @@ echo `tput setaf 1`"
 ███████╗██║  ██║███████║   ██║       ██║ ╚████║██║ ╚═╝ ██║██║  ██║██║     
 ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝       ╚═╝  ╚═══╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝     
   ________________________________________________________________________
- |                                                                        |
- |                     WebSite: RedSecurity.xyz                           |
- |                      Creator: RedSecurity Admin                        |
- |                       E-mail: Info@RedSecurity.xyz                     |
- |                                                                        | 
- --------------------------------------------------------------------------
+ |  Team Members -- Vamsi.p , Vaishnavi.g , Hemanth.b, Mohita.b          |                                                                      
+ |  Description - Port scanning is a method to identify open ports,      |
+ |               crucial for security assessments and network management.|
+ |               We are not responsible for any problem                  |
+ |                resulting from the use of such tools.                  |
+ |       CONCEPTUAL PROJECT                                              |
+ |                                                                       |
+ -------------------------------------------------------------------------
 "
 echo `tput setaf 11` 'Examples for custom port => 80,445,3306 -- 10-200 -- 10-200,445,500-600 '
 echo `tput setaf 45` ''
@@ -279,7 +287,7 @@ sleep .12
 echo `tput setaf 79` 'Easy Nmap is much simpler than Nmap'
 echo '  Easy Nmap uses Nmap Scanner to scan'
 echo "   This tool contains many important Nmap features, but does not have some nmap features"
-echo '    WebSite:RedSecurity.xyz'
-echo '     E-mail:Info@RedSecurity.xyz'
+echo '     '
+echo '     '
 echo ''
 fi
