@@ -18,7 +18,7 @@ easy-nmap
 You can run the above command anywhere in terminal
 ## Contact us @woxsen university
 Team:
-Vamsi
-Vaishnavi G - https://github.com/vaishnavi0307
-Mohitha
+Vamsi,
+Vaishnavi G (vaishnavi0307),
+Mohitha,
 Hemanth
